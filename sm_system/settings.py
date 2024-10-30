@@ -132,7 +132,7 @@ REST_FRAMEWORK = {
 }
 
 SPECTACULAR_SETTINGS = {
-    'TITLE': 'Your API Title',
+    'TITLE': 'School Management System API',
     'DESCRIPTION': 'Description of your API.',
     'VERSION': '1.0.0',
     'SERVE_INCLUDE_SCHEMA': False,
